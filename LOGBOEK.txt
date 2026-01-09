@@ -1,0 +1,146 @@
+LOGBOEK – LEREN VAN DE SOFTWARE (PYTHON)
+
+Software: Python
+Leerperiode: 5 weken
+Leerdoel:
+Aan het einde van de leerperiode kan ik zelfstandig Python-scripts schrijven met
+variabelen, conditionals, loops, functies, lijsten/dictionaries en bestandsverwerking.
+
+
+--------------------------------------------------
+WEEK 1 – Introductie Python & basisconcepten
+--------------------------------------------------
+Wat heb ik gedaan:
+- Python geïnstalleerd en gewerkt met een code-editor
+- Geleerd hoe variabelen, input en output werken
+- Een script gemaakt waarin:
+  - De gebruiker zijn naam invoert
+  - Een prijs en fooi invoert
+  - De totale prijs wordt berekend en getoond
+
+Oefeningen:
+- week1.py (prijsberekening met input, variabelen en print)
+
+Resultaat:
+- Script werkt correct
+- Basiskennis van Python-syntax opgedaan
+
+Voortgang:
+- Planning gehaald
+- Geen vertraging
+
+Bewijs:
+- Python-script opgeslagen in GitHub
+- Werkende output in de terminal
+
+
+--------------------------------------------------
+WEEK 2 – Conditionals en loops
+--------------------------------------------------
+Wat heb ik gedaan:
+- Geoefend met if/else-structuren
+- Geoefend met while-loops
+- Een menu gemaakt waarin de gebruiker een service moet kiezen
+- Validatie toegevoegd voor ongeldige invoer
+
+Oefeningen:
+- week2.py (service-keuze met herhaling en foutmeldingen)
+
+Resultaat:
+- Begrip van conditionals en loops
+- Programma accepteert alleen geldige keuzes
+
+Voortgang:
+- Planning gehaald
+- Extra geoefend met loops
+
+Actie:
+- Extra testcases uitgevoerd met foutieve invoer
+
+Bewijs:
+- GitHub commit met week 2 script
+
+
+--------------------------------------------------
+WEEK 3 – Functies, lijsten en dictionaries
+--------------------------------------------------
+Wat heb ik gedaan:
+- Functies geschreven met parameters en return-waarden
+- Gewerkt met lijsten en dictionaries
+- Afspraak-systeem gemaakt waarin afspraken worden opgeslagen
+
+Oefeningen:
+- week3.py (afspraken toevoegen via functies)
+
+Resultaat:
+- Inzicht in herbruikbare code
+- Begrip van datastructuren
+
+Voortgang:
+- Planning gehaald
+- Code beter gestructureerd
+
+Bewijs:
+- Werkend programma in GitHub
+- Meerdere afspraken succesvol toegevoegd
+
+
+--------------------------------------------------
+WEEK 4 – Bestanden lezen en schrijven
+--------------------------------------------------
+Wat heb ik gedaan:
+- Geleerd hoe bestanden worden geopend, gelezen en geschreven
+- Afspraken opgeslagen in een tekstbestand (appointments.txt)
+- Debugging toegepast bij foutieve regels
+
+Oefeningen:
+- week4.py (afspraken opslaan en inlezen)
+
+Resultaat:
+- Data blijft bewaard na afsluiten van het programma
+- Fouten worden netjes afgehandeld
+
+Voortgang:
+- Planning grotendeels gehaald
+- Extra tijd besteed aan foutafhandeling
+
+Actie:
+- Bestand handmatig aangepast om fouten te testen
+
+Bewijs:
+- appointments.txt bestand
+- Screenshots van output
+- Code in GitHub
+
+
+--------------------------------------------------
+WEEK 5 – Eindopdracht (mini Python-app)
+--------------------------------------------------
+Wat heb ik gedaan:
+- Alle onderdelen gecombineerd in één console-app
+- Profiel instellen en opslaan in bestand
+- Afspraak boeken met datumvalidatie (alleen toekomst)
+- Overzicht van afspraken tonen, gesorteerd op datum en tijd
+
+Oefeningen:
+- week5.py (volledige mini-app)
+
+Resultaat:
+- Volledig werkende Python-app
+- Alle leerdoelen behaald
+
+Voortgang:
+- Planning volledig afgerond
+
+Bewijs:
+- Complete GitHub repository
+- Werkende eindopdracht
+
+
+--------------------------------------------------
+REFLECTIE
+--------------------------------------------------
+Ik heb mijn voortgang wekelijks bewaakt door mijn planning te volgen en mijn
+opdrachten te testen. Wanneer onderdelen lastig waren, heb ik extra geoefend
+en fouten bewust getest. Door praktisch te werken heb ik Python stap voor stap
+onder de knie gekregen.
